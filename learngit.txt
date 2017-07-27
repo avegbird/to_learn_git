@@ -5,3 +5,5 @@ git is a free software
 
 this is a new line
 how can you find it
+
+the third rewrite
